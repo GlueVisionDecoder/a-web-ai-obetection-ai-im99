@@ -1,4 +1,4 @@
-# 
+# VIP A web AI object detection préréglages. Avec traitement en temps réel et apprentissage par transfert — optimisé pour des performances maximales.
 
 
 
